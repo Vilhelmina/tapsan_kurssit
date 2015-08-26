@@ -1,6 +1,3 @@
 # tapsan_kurssit
 
-hi humans. 
-
-
-Robot here. lol.
+jep jep.
